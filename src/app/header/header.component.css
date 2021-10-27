@@ -1,0 +1,15 @@
+.nav-item{
+    margin-left: 200px;
+    text-decoration: none;
+    font-size: 15px;
+    padding: 50px;
+    color: #FFF;
+} 
+.navbar{
+    background-color: #2F2B35;
+    margin-bottom: 0%;
+}
+img{
+    width: 200px;
+    margin-top: -20px;
+}

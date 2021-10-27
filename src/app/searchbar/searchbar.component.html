@@ -1,0 +1,41 @@
+<div class="container1">
+    <form action="">
+      <div class="row">
+        <div class="col-sm-6 col-md-3">
+          <div class="group">
+            <input type="text" class="control" id="keyword" placeholder="Book Title">
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <div class="group">
+            <select name="genre" id="genre">
+              <option value="book">Book Category</option>
+              <option value="inspiration" routerLink='bookstore'>Inspiration</option>
+              <option value="love">Love Story</option>
+              <option value="life">Life Style</option>
+              <option value="sci">Science</option>
+            </select>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <div class="group">
+            <select name="author" id="author">
+              <option value="auth">Book Author</option>
+              <option value="chetan" routerLink='error'>Chetan Bhagat</option>
+              <option value="robin">Robin Sharma</option>
+              <option value="preeti">Preeti Shenoy</option>
+              <option value="rave">Ravinder Singh</option>
+            </select>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <div class="group">
+            <input type="hidden" name="type" value="product">
+            <button type="submit" class="btn btn-primary btn-block">
+              <i class="fa fa-search"></i>&nbsp;Find Book
+            </button>
+          </div>
+        </div>
+      </div>
+    </form>
+</div>

@@ -1,0 +1,37 @@
+.content2{
+    background-color: #2F2B35;
+    margin: 50px 200px;
+    padding: 0px 0px 30px 10px;
+}
+.head12{
+    margin-left: 480px;
+    padding: 30px 0px 0px 0px;
+    font-size: 30px;
+    color: #fff;
+}
+.content22{
+    display: flex;
+}
+.card{
+    margin: 20px;
+}
+.card-img-top{
+    height: 333px;  
+    width: 250px;
+    padding: 20px;
+}
+.card-title{
+    color: #000;
+    line-height: 1.px;
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.card-price{
+    text-align: center;
+}
+.pagination{
+    border: 1px solid;
+    margin: 20px 0;
+}

@@ -1,0 +1,24 @@
+.err{
+    padding: 20px 20px 150px 20px;
+}
+h1{
+    text-align: center;
+    font-size: 200px;
+    font-weight: bold;
+    color: #332F89;
+}
+h5, .page{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+#btn{
+    margin-left: 700px;
+    background-color: #0145D4;
+    color: #fff;
+    border: none;
+    width: 10%;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 50px;
+}

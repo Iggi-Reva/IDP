@@ -1,0 +1,42 @@
+.head1{
+    background-color: #515570;
+    padding: 40px;
+}
+h1, h4{
+    text-align: center;
+    color: #fff;
+    letter-spacing: 2px;
+}
+h1{
+    font-size: 50px;
+}
+
+.content{
+    background-color: #EDF3F4;
+    margin: 50px 200px;
+}
+.content1, .content2, .content3, .content4{
+    display: flex;
+}
+.card{
+    margin: 50px;
+}
+.card-img-top{
+    height: 333px;  
+    width: 250px;
+    padding: 20px;
+}
+.card-title{
+    color: #000;
+    line-height: 1.px;
+}
+.card-text{
+    text-align: center;
+}
+.card-price{
+    text-align: center;
+}
+.pagination{
+    border: 1px solid;
+    margin: 20px 0;
+}
